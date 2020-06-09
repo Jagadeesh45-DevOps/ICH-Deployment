@@ -1,2 +1,2 @@
-# ICH-Deploymen
+# ICH-Deployment
 This is for practice purpose
